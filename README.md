@@ -34,3 +34,7 @@ puente.webp
 icons/
 abrir-menu.png
 cerrar-menu.png
+
+
+Dificultades:
+Ninguna.
